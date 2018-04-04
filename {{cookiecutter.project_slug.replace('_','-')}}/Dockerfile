@@ -1,4 +1,4 @@
-FROM python:3.6.4-slim-jessie
+FROM python:3.6.5-slim-jessie
 
 LABEL maintainer="Aly Sivji <alysivji@gmail.com>" \
       description="Development image for SivDev"
